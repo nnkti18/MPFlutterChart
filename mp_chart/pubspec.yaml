@@ -3,6 +3,7 @@ description: A Flutter chart package just like AndroidMPChart, apply easy to use
 version: 0.3.1
 author: SunPointed<410338643@qq.com>
 homepage: https://github.com/SunPointed/MPFlutterChart
+publish_to: none
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
